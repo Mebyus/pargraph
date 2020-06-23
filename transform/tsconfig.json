@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "baseUrl": "."
+  }
+}
